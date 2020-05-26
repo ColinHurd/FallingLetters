@@ -5,3 +5,5 @@ arbitrary shapes to a pixel-perfect pygame 2D-animation in progress.  Letters or
 The demo uses a pymunk space (with the default collision handler) containing some static and dynamic objects, into which the glyph sprites are added sequentially from the queue.  Pixel-perfect or Bounding-box conditions can be selected and mixed, and various details can be chosen to display.
 
 Requires: Python 3.7. or later.           Qualified: MacOS10, Windows10, Ubuntu20
+
+View at:      https://www.dropbox.com/s/1015pw4wkz4dl5c/fallingletters.mov?dl=0
